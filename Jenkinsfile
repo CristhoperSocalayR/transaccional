@@ -31,7 +31,7 @@ pipeline {
             steps {
                 sh '''
                     mvn test \
-                        -Dtest=TypeKardexApplicationTests
+                        -Dtest=TypeKardexServiceTest
                 '''
             }
             post {
