@@ -1,0 +1,9 @@
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/dto/ProductDTO.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/controller/ControlllerTypeKardex.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/service/TypeKardexService.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/repository/TypeKardexRepository.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/model/TypeKardex.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/dto/ShedDTO.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/dto/SupplierDTO.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/config/SwaggerConfig.java
+/workspaces/transaccional/src/main/java/edu/pe/vallegrande/TypeKardex/TypeKardexApplication.java
